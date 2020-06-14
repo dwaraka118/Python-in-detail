@@ -1,0 +1,6 @@
+print(type(5)) 
+print(type(10))
+print(type(3.8)) 
+print(type(5.0))
+print(type("computer")) 
+print(type("laptop"))
