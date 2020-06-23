@@ -6,7 +6,8 @@ for i in range(number+1):
     i = i * " *"  # with small variation
     print(i)
 
-for i in range(number+1):
-    if i > 3:
-        print(i)
+for i in range(1,number+1,2):
+    i = i * " *"  # with small variation
+    print(i)
+
 

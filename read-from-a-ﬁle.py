@@ -5,12 +5,12 @@
 # print("The file has been closed. We are outside the context block!")
 
 
-filename = input("What file would you like to open? ") 
+'''filename = input("What file would you like to open? ") 
 with open(filename, "r") as file_object: 
     print('file has been opened\n\n')  
     print(file_object.read())
 print('\n\nfile ends here')
-
+'''
 file_name = input("what file would you like to open ? : ")
 with open(file_name,'r') as file_object:
     print(file_object.read())

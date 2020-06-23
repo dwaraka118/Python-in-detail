@@ -8,7 +8,7 @@ def greet(name):
     print(f"hey! {name} i am always there for you")
     return f"\n hey! {name} i am always there for you "
 
-g = greet('dwaraka')
+g = greet('Dwaraka')
 g1 = greet('kishore')
 print(g,g1)
 
